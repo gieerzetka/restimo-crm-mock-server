@@ -2,7 +2,13 @@
   "restaurants": [
     {
       "id": "1",
-      "name": "Szara Ges"
+      "name": "Szara Ges",
+      "address": "Rynek Glowny 13, 31-001 Krakow"
+    },
+    {
+      "id": "2sfadad",
+      "name": "Wierzynek",
+      "address": "Rynek Glowny 14, 31-001 Krakow"
     }
   ]
 }
